@@ -1,1 +1,1 @@
-# NCAA_Player_RAPM
+# NCAA Player Ratings
